@@ -5,9 +5,8 @@
 <body>
 
 > Tools: 
-```
-VSCode, Node.js
-```
+- Visual Studio Code 
+- Node.js
 > Checking versions: 
 ```
 npm -v / node -v
