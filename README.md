@@ -32,7 +32,7 @@ npx cypress open
 
 </br>
 
-<h2><strong>MORE INFORMATION</strong><h2>
-
+<h2><strong>MORE INFORMATION</strong></h2>
+  
 Mochawesome Reporter - https://github.com/adamgruber/mochawesome</br>
 Cypress API - https://docs.cypress.io/api/table-of-contents
