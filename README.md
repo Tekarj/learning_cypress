@@ -1,7 +1,11 @@
+<p align="right">
+  <img src="https://img.shields.io/github/watchers/Tekarj/learning_cypress?style=social"/>
+</p>
 
 <head>
-<h1>Learning Cypress</h1>
+  <h1>Learning Cypress</h1>
 </head>
+
 <body>
 
 > Tools: 
@@ -19,7 +23,7 @@ npm init
 ```
 npm i cypress --save-dev
 ```
-> Run/Open Cypress
+> Run/Open Cypress:
 ```
 npm run test
 ```
@@ -27,7 +31,7 @@ or
 ```
 npx cypress open
 ```
-</body>
+
 
 </br>
 
@@ -35,3 +39,4 @@ npx cypress open
   
 Mochawesome Reporter - https://github.com/adamgruber/mochawesome</br>
 Cypress API - https://docs.cypress.io/api/table-of-contents
+</body>
